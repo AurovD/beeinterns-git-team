@@ -2,8 +2,8 @@
 Team slogan 
 
 ## Members:
-* Member 1
-* Member 2
-* Member 3
-* Member 4
-* Member 5
+* Королева Елена
+* Евстифейкина Анна
+* Аюров Дмитрий
+* Шабров Илья
+* Алхоев Рашид 
