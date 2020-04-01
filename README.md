@@ -1,4 +1,4 @@
-# next
+# NEXT
 Team slogan 
 
 ## Members:
